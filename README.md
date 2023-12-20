@@ -50,10 +50,6 @@ DS2_MadWatch is here to save your day! An automation tool that notifies you when
 
 🎉 There you go! You're all set to track the Mad Warrior like a pro. Happy gaming! 🎮
 
-<div align="center">
-  <img src="src/script_running.png" />
-</div>
-
 Now, sit back and relax while DS2_MadWatch keeps an eye out for the Mad Warrior. When he spawns, you'll know it instantly! ⏲️👀
 
 ## 🔧 Use 🚀
