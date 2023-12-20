@@ -80,6 +80,7 @@ Interested in making DS2_MadWatch even better? Here's how you can help:
 **A:** Sure thing! Equip these for better odds:    
    - Symbol of Avarice 🗿
    - Covetous Gold Serpent Ring +2 💍
+   - Delicate String ⭕
    - Watchdragon Parma 🛡️
    - Prisoner's Set 👕
    - Rusted Coin 🪙
