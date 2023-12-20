@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="src/logo.png" style="vertical-align: bottom">
+<img src="src/logo.png" style="vertical-align: bottom" width="300" >
   
 DS2_MadWatch
 </h2>
@@ -60,6 +60,8 @@ Now, sit back and relax while DS2_MadWatch keeps an eye out for the Mad Warrior.
 ## 🔧 Use 🚀
 Run the script whenever you're in the game, waiting for the Mad Warrior. The script checks every 0.1 seconds for any significant increase in RAM usage by the game, hinting at the spawn of the Mad Warrior. When it detects a spawn, it'll beep and show a time-stamped notification!
 
+### Video Demo
+https://github.com/zkrvf/DS2_MadWatch/assets/149688649/d48ea359-b665-4551-b538-f2a689eb9eb2
 ## ➕ Contribute 🤝
 
 Interested in making DS2_MadWatch even better? Here's how you can help:
