@@ -73,7 +73,7 @@ Interested in making DS2_MadWatch even better? Here's how you can help:
 5. 📬 Open a new Pull Request.
 
 ## ❓ FAQ (Frequently Asked Questions)
-**Q:** Can this script be modified for other in-game events or games?  
+**Q:** Can this script be modified for other in-game events or games? 🕹️
 **A:** Absolutely! With some tweaks, it can be adapted to monitor various in-game events that affect memory usage. 🛠️
 
 ## 📝 License 📜
