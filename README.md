@@ -75,4 +75,4 @@ Interested in making DS2_MadWatch even better? Here's how you can help:
 **A:** Absolutely! With some tweaks, it can be adapted to monitor various in-game events that affect memory usage. 🛠️
 
 ## 📝 License 📜
-This script is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The software is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
