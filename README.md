@@ -9,7 +9,7 @@ Tired of waiting endlessly for that elusive Mad Warrior in Dark Souls 2? 👀
 Ready to turn your "Mad Warrior waiting game" into a productive pastime? 🎮⏳
 
 <div align="center">
-  <img src="src/waiting.gif" width="200" />
+  <img src="src/bonfire.gif" width="400" />
 </div>
 
 > _Patience is a virtue, but let's not overdo it._
